@@ -1,0 +1,6 @@
+
+# Database files
+*.db
+*.sqlite3
+*.txt
+*.json
