@@ -1,0 +1,3 @@
+[submodule "nuxt"]
+	path = nuxt
+	url = git@github.com:WhiteTiger-21/gakuen_idolmaster_perplexing_quotes_nuxt.git
